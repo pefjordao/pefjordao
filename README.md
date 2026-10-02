@@ -22,13 +22,7 @@ I work across **data processing, statistical analysis, visualization, and biolog
 ---
 
 <p align="center">
-  <a href="https://orcid.org/0000-0002-0233-8828">
-    <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID" />
-  </a>&nbsp;
-  <a href="http://lattes.cnpq.br/1532169765731862">
-    <img src="https://img.shields.io/badge/-Lattes-1A73E8?style=for-the-badge&logoColor=white" alt="Lattes" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/pedrohfjordao/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://orcid.org/0000-0002-0233-8828"><img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=ORCID&logoColor=white" alt="ORCID"></a>&nbsp;
+  <a href="http://lattes.cnpq.br/1532169765731862"><img src="https://img.shields.io/badge/-Lattes-1A73E8?style=for-the-badge&logoColor=white" alt="Lattes"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/pedrohfjordao/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
