@@ -2,7 +2,7 @@
 
 I'm a **PhD candidate in Biochemistry at the University of São Paulo (USP)**, working at the interface of **Bioinformatics, Molecular Biology, and Biochemistry**.
 
-My research focuses on **molecular and epigenetic mechanisms underlying cell identity, plasticity, and metabolism**, with a particular interest in **non-coding RNAs and cancer biology**.
+My research focuses on **molecular and epigenetic mechanisms underlying cell identity, plasticity, and metabolism**, with a particular interest in **non-coding RNAs**.
 
 ## 🔬 What I work with
 
